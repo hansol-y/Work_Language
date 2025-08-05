@@ -1,7 +1,7 @@
 # Work_Language
 
 ## Application Introduction
-**Work-Language** is a lightweight app application that transforrms emotionally raw or unfiltered thoughts into work-appropriate communication. Designed for professionals, interns, or anyone navigating difficult workplace conversations, it enables users to express their intent clearly—while adjusting tone and formality through a simple interface.
+**Work-Language** is a lightweight app application that transforms emotionally raw or unfiltered thoughts into work-appropriate communication. Designed for professionals, interns, or anyone navigating difficult workplace conversations, it enables users to express their intent clearly—while adjusting tone and formality through a simple interface.
 
 ### Key Features
 - Raw Input Handling
